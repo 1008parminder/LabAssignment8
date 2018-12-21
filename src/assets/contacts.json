@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Parminder",
+        "lastName": "Singh",
+        "email": "ps12@yahoo.com",
+        "phone": "(666) 888-0000)",
+        "editing": false 
+    },
+    {
+        "id": 2,
+        "firstName": "Arminder",
+        "lastName": "Sal",
+        "email": "sal@yahoo.com",
+        "phone": "(124) 777-8888)",
+        "editing": false 
+    },
+    {
+        "id": 3,
+        "firstName": "Inder",
+        "lastName": "Gill",
+        "email": "gill@yahoo.com",
+        "phone": "(555) 333-2222)",
+        "editing": false 
+    }
+]
